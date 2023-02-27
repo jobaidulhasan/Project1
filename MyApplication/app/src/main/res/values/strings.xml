@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="product_name">
+
+        <item>Fruits and Vegetables</item>
+        <item>Grocery and staples</item>
+        <item>Household Needs</item>
+        <item>Mans and Womens wear</item>
+        <item>Foot ware</item>
+
+    </string-array>
+
+    <string-array name="product_details">
+
+        <item>Lorem ipsum diord sit amit,sjjrk aosjet constectia adiposimg sot</item>
+        <item>Lorem ipsum diord sit amit,sjjrk aosjet constectia adiposimg sot</item>
+        <item>Lorem ipsum diord sit amit,sjjrk aosjet constectia adiposimg sot</item>
+        <item>Lorem ipsum diord sit amit,sjjrk aosjet constectia adiposimg sot</item>
+        <item>Lorem ipsum diord sit amit,sjjrk aosjet constectia adiposimg sot</item>
+
+    </string-array>
+</resources>
